@@ -1,0 +1,5 @@
+There is no .css file.
+
+Image on the man on the beach needs to fit into the card.
+
+Image cannot be added from the resource file, and I don't know how to center the image to have the same card height as the other.
